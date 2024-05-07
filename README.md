@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**itislu/itislu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/itislu">
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itislu&theme=moltack"
+    >
+  </a>
+  
+  <a href="https://github.com/itislu">
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itislu&theme=moltack"
+    >
+  </a>
+  
+  <a href="https://github.com/itislu">
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itislu&theme=moltack"
+    >
+  </a>
+  
+  <br>
+  <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://github.com/itislu">
+    <img
+        src="https://komarev.com/ghpvc/?username=itislu&style=for-the-badge&color=86092c"
+    >
+  </a>
+  
+</div>
