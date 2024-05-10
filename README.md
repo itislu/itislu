@@ -12,7 +12,7 @@
     >
   </a>
 
-  <a href="https://github.com/itislu">
+  <a href="https://github.com/itislu?tab=repositories">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=itislu&langs_count=20&layout=compact&hide_border=true&border_radius=5.5&show_icons=true&theme=ambient_gradient&bg_color=DEG,7a1406,de9917&card_width=700"
     >
