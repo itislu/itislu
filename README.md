@@ -22,7 +22,7 @@
 
   <a href="https://github.com/itislu">
     <img
-        src="https://komarev.com/ghpvc/?username=itislu&style=for-the-badge&color=86092c"
+        src="https://komarev.com/ghpvc/?username=itislu&style=for-the-badge&label=VISITORS&color=86092c"
     >
   </a>
   
