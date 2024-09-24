@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeaYeh&repo=minishell&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/LeaYeh/minishell)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itislu&repo=42free&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/itislu/42free)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeaYeh&repo=minishell&description_lines_count=3&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/LeaYeh/minishell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itislu&repo=42free&description_lines_count=3&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/itislu/42free)
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeaYeh&repo=42_minishell_tester&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/LeaYeh/42_minishell_tester)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itislu&repo=42tools&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/itislu/42tools)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeaYeh&repo=42_minishell_tester&description_lines_count=2&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/LeaYeh/42_minishell_tester)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itislu&repo=42tools&description_lines_count=2&hide_border=true&border_radius=5.5&theme=moltack)](https://github.com/itislu/42tools)
 
 ---
 
